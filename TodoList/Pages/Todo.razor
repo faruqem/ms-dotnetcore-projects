@@ -1,0 +1,19 @@
+﻿@page "/todo"
+
+<h3>Todo still to be completed:  (@todos.Count(t => !t.IsDone))</h3>
+
+<ul>
+    @foreach(var todo in todos) {
+        <li>
+            <input type="checkbox" @bind="todo.IsDone"/>
+            <input @bind="todo.Title" />
+        </li>
+    }
+</ul>
+
+<input placeholder="Something todo" @bind="newTodo"/>
+<button @onclick="AddTodo">Add todo</button>
+
+@*@code {
+    private IList<TodoItem> todos = new List<TodoItem>();
+}*@
