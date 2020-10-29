@@ -173,3 +173,4 @@
 /Users/faruqe/Faruqe/DotNET Core/Microsoft Tutorials/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Pages/Students/Details.cshtml.g.cs
 /Users/faruqe/Faruqe/DotNET Core/Microsoft Tutorials/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Pages/Students/Edit.cshtml.g.cs
 /Users/faruqe/Faruqe/DotNET Core/Microsoft Tutorials/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Pages/Students/Index.cshtml.g.cs
+/Users/faruqe/Faruqe/DotNET Core/Microsoft Tutorials/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Pages/About.cshtml.g.cs
